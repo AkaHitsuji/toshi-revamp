@@ -44,9 +44,71 @@ body {
     height: 10%;
     width: 100%;
     padding: 10px;
-    background-color: #A72710;
+    background-color: white;
     text-align: center;
     font-size: 30px;
-    font-weight: 700;
-    color: #FFD4CC;
+    font-weight: 200;
+    color: #A72710;
+}
+
+.search-container {
+    float: left;
+    height: 10%;
+    width: 100%;
+    padding: 10px;
+    background-color: #A72710;
+}
+
+.search-container input[type=text] {
+    float: left;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    font-size: 17px;
+    width: 60%;
+}
+
+.search-container button {
+  float: left;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-left: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.search-container button:hover {
+  background: #ccc;
+}
+
+.grocery-options {
+    height: 90%;
+    width: 100%;
+    bottom: 0;
+    background-color: red;
+    font-size: 17px;
+    font-weight: 800;
+}
+
+.right-profileimg {
+    height: 20%;
+    width: 100%;
+    /* top: 0; */
+}
+
+.right-profileimg img {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.right-title {
+    height: 10%;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
 }
