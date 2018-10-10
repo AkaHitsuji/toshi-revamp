@@ -1,8 +1,7 @@
-html {
-  scroll-behavior: smooth;
-}
-
-body {
+html, body {
+    scroll-behavior: smooth;
+    max-width: 100%;
+    overflow-x: hidden;
     position: relative;
     font-family: 'Open Sans';
 }
@@ -90,6 +89,7 @@ button:hover {
     padding: 10px;
     font-size: 25px;
     font-weight: 300;
+    border-radius: 5px;
 }
 
 .grocery-container {
