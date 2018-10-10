@@ -14,101 +14,221 @@
 
     <!-- font awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+
+    <!-- for navbar highlighting to work -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
 </head>
-<body>
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
 
 <div class="main-container">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container-fluid">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        </div>
+    <div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav">
+            <li><a href="#ShopARH">ShopARH</a></li>
+            <li><a href="#mylists">My Lists</a></li>
+            <li><a href="#recipes">Recipes</a></li>
+            <li><a href="#discover">Discover</a></li>
+        </ul>
+      </div>
+    </div>
+    </div>
+    </nav>
     <!-- logo container -->
     <div class="col-md-12">
-        <div class="header-container">
+        <div class="header-container" id="ShopARH">
             <div class="logo">
                 <img src="img/profileimg.png" alt="logo">
             </div>
         </div>
     </div>
 
+
     <!-- groceries -->
     <div class="col-md-12">
         <div class="grocery-container">
             <!-- row -->
-            <div class="col-md-12">
+            <div class="col-md-12 container-fluid" id="mylists">
+                <div class="grocery-header">
+                    MY LISTS
+                </div>
+                <div class="col-xs-4 col-md-4 grocery-cell">
+                    <a href="index.html">
+                    <div class="grocery-card">
+                        <img src="http://s3.amazonaws.com/static.graphemica.com/glyphs/i500s/000/010/184/original/002B-500x500.png?1275328183">
+                        <div class="grocery-title">
+                            CREATE NEW LIST
+                        </div>
+                    </div>
+                    </a>
+                </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
                     <div class="grocery-card">
-                        <img src="https://www.highmowingseeds.com/pub/media/catalog/product/cache/image/675x675/e9c3970ab036de70892d86c6d221abfe/2/3/2334.jpg">
+                        <img src="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/5/9/0/FNM_060111-Insert-008-u_s4x3.jpg.rend.hgtvcom.616.462.suffix/1371597483472.jpeg">
                         <div class="grocery-title">
-                            CARROT LIST 1
+                            CONDIMENTS LIST
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
                     <div class="grocery-card">
-                        <img src="https://www.organicfacts.net/wp-content/uploads/storecarrots.jpg">
+                        <img src="https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/12_powerhouse_vegetables_slideshow/intro_cream_of_crop.jpg">
                         <div class="grocery-title">
-                            CARROT LIST 2
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xs-4 col-md-4 grocery-cell">
-                    <div class="grocery-card">
-                        <img src="https://khaberni-6zrocpuaymq7.stackpathdns.com/uploads/news_model/images/26529_25337.jpg">
-                        <div class="grocery-title">
-                            CARROT LIST 3
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- row -->
-            <div class="col-md-12">
-                <div class="col-xs-4 col-md-4 grocery-cell">
-                    <div class="grocery-card">
-                        <img src="https://www.highmowingseeds.com/pub/media/catalog/product/cache/image/675x675/e9c3970ab036de70892d86c6d221abfe/2/3/2334.jpg">
-                        <div class="grocery-title">
-                            CARROT LIST 4
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xs-4 col-md-4 grocery-cell">
-                    <div class="grocery-card">
-                        <img src="https://www.organicfacts.net/wp-content/uploads/storecarrots.jpg">
-                        <div class="grocery-title">
-                            CARROT LIST 5
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xs-4 col-md-4 grocery-cell">
-                    <div class="grocery-card">
-                        <img src="https://khaberni-6zrocpuaymq7.stackpathdns.com/uploads/news_model/images/26529_25337.jpg">
-                        <div class="grocery-title">
-                            CARROT LIST 6
+                            VEGETABLES LIST
                         </div>
                     </div>
                 </div>
             </div>
 
             <!-- row -->
-            <div class="col-md-12">
+            <div class="col-md-12 container-fluid">
                 <div class="col-xs-4 col-md-4 grocery-cell">
                     <div class="grocery-card">
-                        <img src="https://www.highmowingseeds.com/pub/media/catalog/product/cache/image/675x675/e9c3970ab036de70892d86c6d221abfe/2/3/2334.jpg">
+                        <img src="https://media.mnn.com/assets/images/2016/05/Fresh-fruit-pretty.jpg.653x0_q80_crop-smart.jpg">
                         <div class="grocery-title">
-                            CARROT LIST 7
+                            FRUITS LIST
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
                     <div class="grocery-card">
-                        <img src="https://www.organicfacts.net/wp-content/uploads/storecarrots.jpg">
+                        <img src="http://www.syunro.net/wp-content/uploads/2016/10/household-items.jpeg">
                         <div class="grocery-title">
-                            CARROT LIST 8
+                            HOUSEHOLD ESSENTIALS
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
                     <div class="grocery-card">
-                        <img src="https://khaberni-6zrocpuaymq7.stackpathdns.com/uploads/news_model/images/26529_25337.jpg">
+                        <img src="https://www.moms-mexican-recipes.com/wp-content/uploads/2017/02/Mexican-Seafood-Soup-Ingredients.jpg">
                         <div class="grocery-title">
-                            CARROT LIST 9
+                            SOUP INGREDIENTS
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- row -->
+            <div class="col-md-12 container-fluid" id="recipes">
+                <div class="grocery-header">
+                    RECIPES
+                </div>
+                <div class="col-xs-4 col-md-4 grocery-cell">
+                    <div class="grocery-card">
+                        <img src="http://www.visitsingapore.com/dining-drinks-singapore/local-dishes/hainanese-chicken-rice/_jcr_content/par-carousel/carousel_detailpage/carousel/item_1.thumbnail.carousel-img.740.416.jpg">
+                        <div class="grocery-title">
+                            CHICKEN RICE
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-4 col-md-4 grocery-cell">
+                    <div class="grocery-card">
+                        <img src="https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/classic-italian-lasagne-2.jpg">
+                        <div class="grocery-title">
+                            LASAGNE
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-4 col-md-4 grocery-cell">
+                    <div class="grocery-card">
+                        <img src="https://images-gmi-pmc.edge-generalmills.com/17dffca0-7f96-4d69-8ce0-fb88830b543e.jpg">
+                        <div class="grocery-title">
+                            BACON & CHEESE QUICHE
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- row -->
+            <div class="col-md-12 container-fluid">
+                <div class="col-xs-4 col-md-4 grocery-cell">
+                    <div class="grocery-card">
+                        <img src="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/11/4/0/CCGEA311_Pizza-Pizzas_s4x3.jpg.rend.hgtvcom.616.462.suffix/1382540656778.jpeg">
+                        <div class="grocery-title">
+                            PIZZA
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-4 col-md-4 grocery-cell">
+                    <div class="grocery-card">
+                        <img src="https://img.taste.com.au/jp9_Q00B/w720-h480-cfill-q80/taste/2016/11/malaysian-satay-109463-1.jpeg">
+                        <div class="grocery-title">
+                            SATAY
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-4 col-md-4 grocery-cell">
+                    <div class="grocery-card">
+                        <img src="https://www.rotinrice.com/wp-content/uploads/2014/02/FishCongee-1.jpg">
+                        <div class="grocery-title">
+                            FISH PORRIDGE
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- row -->
+            <div class="col-md-12 container-fluid" id="discover">
+                <div class="grocery-header">
+                    DISCOVER
+                </div>
+                <div class="col-xs-4 col-md-4 grocery-cell">
+                    <div class="grocery-card">
+                        <img src="https://media.licdn.com/dms/image/C5603AQHnXx49ecfwPA/profile-displayphoto-shrink_800_800/0?e=1544659200&v=beta&t=uoz9PX87jFzWgL6Xm8Iu-obnBSfbo2SLhgCfGu8dOsU">
+                        <div class="grocery-title">
+                            JUN YU'S LIST
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-4 col-md-4 grocery-cell">
+                    <div class="grocery-card">
+                        <img src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/40398021_10204604058057013_4758195126784753664_n.jpg?_nc_cat=110&oh=1fea7af2bdef20525a60629500de7117&oe=5C4D24D9">
+                        <div class="grocery-title">
+                            YAO YANG'S LIST
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-4 col-md-4 grocery-cell">
+                    <div class="grocery-card">
+                        <img src="https://media.licdn.com/dms/image/C5603AQFCy96XjGZWiw/profile-displayphoto-shrink_800_800/0?e=1544659200&v=beta&t=jG84grOcetgtoL4kh5o_dXJBIIxxECY-jX__P5j2d0U">
+                        <div class="grocery-title">
+                            WEI JIAN'S LIST
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- row -->
+            <div class="col-md-12 container-fluid">
+                <div class="col-xs-4 col-md-4 grocery-cell">
+                    <div class="grocery-card">
+                        <img src="https://media.licdn.com/dms/image/C5603AQEPvr1J5ZPwiQ/profile-displayphoto-shrink_800_800/0?e=1544659200&v=beta&t=1EoN_C7eE_YjCMrESVmc-EbTAPI3al5i94lOLf1vM-4">
+                        <div class="grocery-title">
+                            TING HAO'S LIST
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-4 col-md-4 grocery-cell">
+                    <div class="grocery-card">
+                        <img src="https://media.licdn.com/dms/image/C5103AQF-N4b0Y0NnTg/profile-displayphoto-shrink_800_800/0?e=1544659200&v=beta&t=O8QGuh3LRLbYSc4iuzBBXn_c4DRrZwBgZ60O2Sffn0M">
+                        <div class="grocery-title">
+                            WONG LEI'S LIST
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-4 col-md-4 grocery-cell">
+                    <div class="grocery-card">
+                        <img src="https://media.licdn.com/dms/image/C5103AQGAcfti4-Vlvg/profile-displayphoto-shrink_800_800/0?e=1544659200&v=beta&t=txdZ_-Wie0uxzk3MGW5xCXY1n_7d8QGBF0XR1syqqKY">
+                        <div class="grocery-title">
+                            YI XIANG'S LIST
                         </div>
                     </div>
                 </div>
