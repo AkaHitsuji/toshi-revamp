@@ -183,3 +183,16 @@ html, body {
     font-size: 20px;
     font-weight: 300;
 }
+
+.grocer-card .status {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+#available {
+    color: green;
+}
+
+#unavailable {
+    color: orange;
+}

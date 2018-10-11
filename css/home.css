@@ -131,7 +131,7 @@ button:hover {
     transition: 0.3s; */
     width: 100%;
     /* border-radius: 10px; */
-    padding: 20px;
+    padding: 10px;
     overflow: hidden;
     display: block;
     margin-bottom: 10px;
@@ -149,7 +149,6 @@ button:hover {
     border-radius: 10px;
     box-shadow: 0px 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-
     object-fit: cover;
 }
 
@@ -157,6 +156,19 @@ button:hover {
     padding-top: 20px;
     font-size: 20px;
     font-weight: 300;
+}
+
+.grocer-card .status {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+#available {
+    color: green;
+}
+
+#unavailable {
+    color: orange;
 }
 
 .logout {
@@ -176,4 +188,37 @@ button:hover {
 .logout button:hover {
     background-color: #A25F5F;
     color: black;
+}
+
+/* modal styling */
+.modalWindow {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0, 0, 0, 0.4);
+	z-index: 99999;
+	opacity:0;
+	transition: opacity 400ms linear;
+	pointer-events: none;
+}
+.modalWindow:target {
+	opacity:1;
+	pointer-events: auto;
+}
+.modalWindow > div {
+	width: 40%;
+	height: 50%;
+    overflow: auto;
+	position: relative;
+	margin: 10% auto;
+	padding: 20px 20px 13px 20px;
+	border: solid;
+	border-color: grey;
+	border-width : 5px;
+	background: white;
+	border-radius: 10px;
+    font-size: 15px;
+    font-weight: 300;
 }

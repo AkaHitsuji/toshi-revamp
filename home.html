@@ -18,7 +18,6 @@
     <!-- for navbar highlighting to work -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
 
@@ -74,18 +73,28 @@
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
                     <div class="grocery-card">
+                        <a href="#condimentModal">
                         <img src="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/5/9/0/FNM_060111-Insert-008-u_s4x3.jpg.rend.hgtvcom.616.462.suffix/1371597483472.jpeg">
                         <div class="grocery-title">
                             CONDIMENTS LIST
                         </div>
+                        <div class="status" id="available">
+                            <i class="fas fa-check"></i> in stock
+                        </div>
+                        </a>
                     </div>
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
                     <div class="grocery-card">
+                        <a href="#vegetableModal">
                         <img src="https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/12_powerhouse_vegetables_slideshow/intro_cream_of_crop.jpg">
                         <div class="grocery-title">
                             VEGETABLES LIST
                         </div>
+                        <div class="status" id="unavailable">
+                            <i class="far fa-clock"></i> in stock on 21/10/2018
+                        </div>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -98,6 +107,9 @@
                         <div class="grocery-title">
                             FRUITS LIST
                         </div>
+                        <div class="status" id="available">
+                            <i class="fas fa-check"></i> in stock
+                        </div>
                     </div>
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
@@ -106,6 +118,9 @@
                         <div class="grocery-title">
                             HOUSEHOLD ESSENTIALS
                         </div>
+                        <div class="status" id="available">
+                            <i class="fas fa-check"></i> in stock
+                        </div>
                     </div>
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
@@ -113,6 +128,9 @@
                         <img src="https://www.moms-mexican-recipes.com/wp-content/uploads/2017/02/Mexican-Seafood-Soup-Ingredients.jpg">
                         <div class="grocery-title">
                             SOUP INGREDIENTS
+                        </div>
+                        <div class="status" id="unavailable">
+                            <i class="far fa-clock"></i> in stock on 21/10/2018
                         </div>
                     </div>
                 </div>
@@ -125,10 +143,15 @@
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
                     <div class="grocery-card">
+                        <a href="#chickenModal">
                         <img src="http://www.visitsingapore.com/dining-drinks-singapore/local-dishes/hainanese-chicken-rice/_jcr_content/par-carousel/carousel_detailpage/carousel/item_1.thumbnail.carousel-img.740.416.jpg">
                         <div class="grocery-title">
                             CHICKEN RICE
                         </div>
+                        <div class="status" id="unavailable">
+                            <i class="far fa-clock"></i> in stock on 24/10/2018
+                        </div>
+                        </a>
                     </div>
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
@@ -137,6 +160,9 @@
                         <div class="grocery-title">
                             LASAGNE
                         </div>
+                        <div class="status" id="available">
+                            <i class="fas fa-check"></i> in stock
+                        </div>
                     </div>
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
@@ -144,6 +170,9 @@
                         <img src="https://images-gmi-pmc.edge-generalmills.com/17dffca0-7f96-4d69-8ce0-fb88830b543e.jpg">
                         <div class="grocery-title">
                             BACON & CHEESE QUICHE
+                        </div>
+                        <div class="status" id="available">
+                            <i class="fas fa-check"></i> in stock
                         </div>
                     </div>
                 </div>
@@ -156,6 +185,9 @@
                         <div class="grocery-title">
                             PIZZA
                         </div>
+                        <div class="status" id="available">
+                            <i class="fas fa-check"></i> in stock
+                        </div>
                     </div>
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
@@ -164,6 +196,9 @@
                         <div class="grocery-title">
                             SATAY
                         </div>
+                        <div class="status" id="available">
+                            <i class="fas fa-check"></i> in stock
+                        </div>
                     </div>
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
@@ -171,6 +206,9 @@
                         <img src="https://www.rotinrice.com/wp-content/uploads/2014/02/FishCongee-1.jpg">
                         <div class="grocery-title">
                             FISH PORRIDGE
+                        </div>
+                        <div class="status" id="available">
+                            <i class="fas fa-check"></i> in stock
                         </div>
                     </div>
                 </div>
@@ -187,14 +225,22 @@
                         <div class="grocery-title">
                             JUN YU'S LIST
                         </div>
+                        <div class="status" id="available">
+                            <i class="fas fa-check"></i> in stock
+                        </div>
                     </div>
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
                     <div class="grocery-card">
+                        <a href="#yaoyangModal">
                         <img src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/40398021_10204604058057013_4758195126784753664_n.jpg?_nc_cat=110&oh=1fea7af2bdef20525a60629500de7117&oe=5C4D24D9">
                         <div class="grocery-title">
                             YAO YANG'S LIST
                         </div>
+                        <div class="status" id="unavailable">
+                            <i class="far fa-clock"></i> in stock on 20/10/2018
+                        </div>
+                        </a>
                     </div>
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
@@ -202,6 +248,9 @@
                         <img src="https://media.licdn.com/dms/image/C5603AQFCy96XjGZWiw/profile-displayphoto-shrink_800_800/0?e=1544659200&v=beta&t=jG84grOcetgtoL4kh5o_dXJBIIxxECY-jX__P5j2d0U">
                         <div class="grocery-title">
                             WEI JIAN'S LIST
+                        </div>
+                        <div class="status" id="available">
+                            <i class="fas fa-check"></i> in stock
                         </div>
                     </div>
                 </div>
@@ -214,6 +263,9 @@
                         <div class="grocery-title">
                             TING HAO'S LIST
                         </div>
+                        <div class="status" id="available">
+                            <i class="fas fa-check"></i> in stock
+                        </div>
                     </div>
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
@@ -222,6 +274,9 @@
                         <div class="grocery-title">
                             WONG LEI'S LIST
                         </div>
+                        <div class="status" id="available">
+                            <i class="fas fa-check"></i> in stock
+                        </div>
                     </div>
                 </div>
                 <div class="col-xs-4 col-md-4 grocery-cell">
@@ -229,6 +284,9 @@
                         <img src="https://media.licdn.com/dms/image/C5103AQGAcfti4-Vlvg/profile-displayphoto-shrink_800_800/0?e=1544659200&v=beta&t=txdZ_-Wie0uxzk3MGW5xCXY1n_7d8QGBF0XR1syqqKY">
                         <div class="grocery-title">
                             YI XIANG'S LIST
+                        </div>
+                        <div class="status" id="available">
+                            <i class="fas fa-check"></i> in stock
                         </div>
                     </div>
                 </div>
@@ -242,7 +300,49 @@
             <button type="submit">LOGOUT</button>
         </form>
     </div>
+
+    <!-- modal designs -->
+    <div class="modalWindow" id="condimentModal">
+        <div>
+            <p>
+                <b>GROCERY LIST</b><br>
+                Hot Sauce <br> Horse Radish <br> Ranch Dressing <br> Ketchup <br> Soya Sauce <br> BBQ Sauce <br> Mayonnaise <br> Salsa <br> Chilli <br> Sea salt <br> Red Pepper
+            </p>
+            <a href="#close"><b>CLOSE</b></a><br>
+        </div>
+    </div>
+
+    <div class="modalWindow" id="vegetableModal">
+        <div>
+            <p>
+                <b>GROCERY LIST</b><br>
+                Carrot <br> Kang Kong <br> Xiao Bai Cai <br> Kai Lan <br> <span style="color:orange"><i class="far fa-clock"></i> Cabbage in stock on 21/10/2018</span> <br> Bean Sprouts <br> Lettuce <br> Cucumber <br> Eggplant <br> Bittergourd
+            </p>
+            <a href="#close"><b>CLOSE</b></a><br>
+        </div>
+    </div>
+
+    <div class="modalWindow" id="chickenModal">
+        <div>
+            <p>
+                <b>GROCERY LIST</b><br>
+                Chicken <br> Ginger <br> Pandan Leaf <br> Rice <br> Garlic <br> Spring Onion <br> Cucumber <br> <span style="color:orange"><i class="far fa-clock"></i> Soya Sauce in stock on 24/10/2018</span> <br> Chilli <br> Lemon Juice <br> Pepper <br> Salt <br> Star Juice
+            </p>
+            <a href="#close"><b>CLOSE</b></a><br>
+        </div>
+    </div>
+
+    <div class="modalWindow" id="yaoyangModal">
+        <div>
+            <p>
+                <b>GROCERY LIST</b><br>
+                Milk <br> Cereal <br> Spaghetti <br> Tomato Sauce <br> Onion <br> Canned Tomatoes <br> Pepper <br> Salt <br> <span style="color:orange"><i class="far fa-clock"></i> Capsicum in stock on 20/10/2018</span> <br> Garlic <br> Bread <br> Pasta <br> Coke <br> Weed <br> Eggs <br> Marijuanna
+            </p>
+            <a href="#close"><b>CLOSE</b></a><br>
+        </div>
+    </div>
 </div>
+
 
 
 </body>
