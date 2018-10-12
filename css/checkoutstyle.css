@@ -55,11 +55,12 @@ html, body {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
-    padding: 10%;
+    padding: 5%;
     height: 80%;
     background-color: white;
     text-align: center;
     border-radius: 20px;
+    font-size: 18px;
     /* overflow: scroll; */
 }
 
@@ -71,9 +72,9 @@ html, body {
     margin-right: auto;
     padding: 5%;
     font-size: 20px;
-    background-color: #FFAB87;
+    background-color: #F6F7F5;
     border-radius: 10px;
-    color: #A20000;
+    color: black;
     /* display: inline-block; */
 }
 
@@ -91,20 +92,6 @@ html, body {
     font-weight: 300;
     /* background-color: green; */
     float: right;
-}
-
-.right-ad-container {
-    width: 80%;
-    height: 60%;
-    overflow: hidden;
-    margin-top: 5%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 5%;
-    font-size: 14px;
-    background-color: white;
-    border-radius: 10px;
-    /* color: #A20000; */
 }
 
 .button-container {
@@ -131,4 +118,24 @@ html, body {
 
 #cancel {
     background-color: red;
+}
+
+/* image animation */
+.right-ad-container {
+    width: 80%;
+    height: 350px;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5%;
+    font-size: 14px;
+    background-color: white;
+    border-radius: 10px;
+    flex: auto;
+}
+
+.right-ad-container img {
+    width:100%;
+    height: 100%;
+    z-index: -1;
 }
