@@ -1,0 +1,772 @@
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/VuforiaScripts.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/VuforiaScripts.pdb
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Boo.Lang.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/mscorlib.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/System.Core.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/System.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/System.Runtime.Serialization.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/System.Xml.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/System.Xml.Linq.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Unity.Locator.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.Advertisements.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.Analytics.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.Graphs.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.HoloLens.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.Networking.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.Purchasing.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.Timeline.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.UI.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.VR.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.AIModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.Analytics.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ARModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.AudioModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ClothModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.CoreModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.GridModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.HoloLens.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.InputModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.Networking.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.Timeline.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.TLSModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UI.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UIModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UNETModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.VideoModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.VRModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.WindModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.XRModule.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityScript.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityScript.Lang.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Vuforia.UnityExtensions.Editor.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Unity.Cecil.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Unity.SerializationLogic.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Unity.DataContract.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/ExCSS.Unity.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Boo.Lang.Parser.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Boo.Lang.Compiler.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Unity.IvyParser.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/nunit.framework.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Boo.Lang.Useful.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Unity.CecilTools.dll
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.AIModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ARModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.AudioModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ClothModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.CoreModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.GridModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.InputModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.TLSModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UIModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UNETModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.VRModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.VideoModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.WindModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.XRModule.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.UI.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.UI.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.Timeline.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.Timeline.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.TreeEditor.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.Networking.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.Networking.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Vuforia.UnityExtensions.Editor.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/Vuforia.UnityExtensions.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.HoloLens.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.HoloLens.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.SpatialTracking.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.VR.xml
+E:/Unity Projects/VuforiaBase/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+E:/Unity Projects/VuforiaBase/obj/Debug/VuforiaScripts.csprojResolveAssemblyReference.cache
+E:/Unity Projects/VuforiaBase/obj/Debug/VuforiaScripts.dll
+E:/Unity Projects/VuforiaBase/obj/Debug/VuforiaScripts.pdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/VuforiaScripts.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/VuforiaScripts.pdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Boo.Lang.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/mscorlib.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Bridge.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/System.Core.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/System.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/System.Xml.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Unity.Locator.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.Analytics.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.HoloLens.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.Purchasing.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.Timeline.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityScript.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Vuforia.UnityExtensions.Editor.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Unity.Cecil.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Unity.DataContract.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/nunit.framework.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Messaging.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Mono.Security.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.UI.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.UI.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.Timeline.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.Timeline.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.TreeEditor.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.TreeEditor.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.Networking.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.Networking.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Vuforia.UnityExtensions.Editor.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Vuforia.UnityExtensions.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.HoloLens.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.HoloLens.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.SpatialTracking.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.SpatialTracking.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.VR.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.VR.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.Graphs.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.Advertisements.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.Analytics.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.Purchasing.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/obj/Debug/VuforiaScripts.csprojAssemblyReference.cache
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/obj/Debug/VuforiaScripts.csproj.CoreCompileInputs.cache
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/obj/Debug/VuforiaScripts.csproj.CopyComplete
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/obj/Debug/VuforiaScripts.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase/obj/Debug/VuforiaScripts.pdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/VuforiaScripts.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/VuforiaScripts.pdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Boo.Lang.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/mscorlib.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Bridge.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/System.Core.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/System.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/System.Xml.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Unity.Locator.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.Analytics.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.HoloLens.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.Purchasing.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.Timeline.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityScript.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Vuforia.UnityExtensions.Editor.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Unity.Cecil.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Unity.DataContract.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/nunit.framework.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Messaging.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Mono.Security.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.UI.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.UI.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.Timeline.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.Timeline.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.TreeEditor.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.TreeEditor.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.Networking.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.Networking.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Vuforia.UnityExtensions.Editor.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Vuforia.UnityExtensions.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.HoloLens.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.HoloLens.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.SpatialTracking.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.SpatialTracking.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.VR.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.VR.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.Graphs.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.Advertisements.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.Analytics.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.Purchasing.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/obj/Debug/VuforiaScripts.csprojAssemblyReference.cache
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/obj/Debug/VuforiaScripts.csproj.CoreCompileInputs.cache
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/obj/Debug/VuforiaScripts.csproj.CopyComplete
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/obj/Debug/VuforiaScripts.dll
+/Users/AngYang/gitHub_Projects/revamp/unity/VuforiaBase_yangs changes/obj/Debug/VuforiaScripts.pdb

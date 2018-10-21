@@ -1,0 +1,3 @@
+# ignore imported libraries
+*libiPhone-lib.a
+*libil2cpp.a

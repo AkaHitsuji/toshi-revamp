@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="oldspiceboblocker" size="1.000000 0.557364" />
+    <ImageTarget name="Emma-Watson-Beauty-and-the-Beast-still-poster" size="1.000000 1.500000" />
+    <ImageTarget name="toshi" size="1.000000 0.966585" />
+    <ImageTarget name="snacks" size="1.000000 0.837555" />
+    <ImageTarget name="vegetables" size="1.000000 0.706956" />
+    <ImageTarget name="50-off" size="1.000000 0.778000" />
+  </Tracking>
+</QCARConfig>

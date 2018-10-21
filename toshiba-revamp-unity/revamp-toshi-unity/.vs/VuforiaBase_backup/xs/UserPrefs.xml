@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{ECAA098C-7D85-13CC-D26C-54638A4879F9}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SamplesResources/SceneAssets/VuMark/Scripts/VuMarkHandler.cs">
+    <Files>
+      <File FileName="Assets/SamplesResources/SceneAssets/VuMark/Scripts/TRCVuMarkHandler.cs" Line="164" Column="53" />
+      <File FileName="Assets/SamplesResources/SceneAssets/VuMark/Scripts/PanelShowHide.cs" Line="30" Column="32" />
+      <File FileName="Assets/SamplesResources/SceneAssets/VuMark/Scripts/VuMarkHandler.cs" Line="258" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
