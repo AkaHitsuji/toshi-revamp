@@ -1,4 +1,4 @@
-# Toshi - Your personal shopping assistant powered by Augmented Reality
+# Toshi - Toshiba Retail Challenge 2018
 Toshi is a personal shopping assistant powered by augmented reality that will transform the grocery shopping experience. Toshi was created for Toshiba Retail Challenge 2018. With it our team won the first prize.
 
 ## Description
